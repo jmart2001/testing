@@ -78,6 +78,6 @@ Antonio Turner
 
 Ayden Owens
 
-Justin Martin 
+Justin Martin justinmmartin01@gmail.com
 
 Valerie Duffey vduffey@email.sc.edu
