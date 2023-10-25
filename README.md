@@ -1,9 +1,13 @@
 # Project Name - WhatToCook
 
 WhatToCook is a recipe-based application. This web application has many features 
-to make cooking easier. 
+to make cooking easier.  Overall the user will be able to find recipes based on 
+their current ingredients or preferred taste, perform cost analysis on their 
+grocery lists, and plan meals for themselves and groups. This application will 
+allow people to prepare their meals efficiently while also having the option
+to be cautious of the price of those meals.
 
-To run this application, first, the repository should be cloned, and then the npm 
+To run this application, first, clone the repository, and then the npm 
 commands can be used to run the application locally: npm start. Other commands may 
 need to be run in order to use npm start.
 
