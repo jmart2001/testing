@@ -16,7 +16,7 @@ export default function App() {
       <h1>Hello Capstone</h1>
       <h2>Here is my codebase!</h2>
       <h2>Here is another commit</h2>
-      <h2>Here is a link to the website</h2>
+      <h2>Here is a link to the Capstone website</h2>
       <h2 style={{textAlign: 'center'}}><Capstone/></h2>
     </div>
   );
