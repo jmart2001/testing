@@ -5,6 +5,7 @@ export default function App() {
     <div className="App">
       <h1>Hello Capstone</h1>
       <h2>Here is my codebase!</h2>
+      <h2>Here is another commit</h2>
     </div>
   );
 }
