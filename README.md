@@ -74,7 +74,7 @@ Explain how to run the automated tests.
 
 Charles Castelot
 
-Antonio Turner antoniow@email.sc.edu
+Antonio Turner antoniow@email.sc.ed
 
 Ayden Owens
 
