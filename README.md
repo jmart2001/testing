@@ -63,7 +63,11 @@ Explain how to run the automated tests.
 # Authors
 
 Charles Castelot
+
 Antonio Turner
+
 Ayden Owens
+
 Justin Martin 
+
 Valerie Duffey vduffey@email.sc.edu
