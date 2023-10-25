@@ -1,4 +1,4 @@
-# Project Name - WhatToCook
+# WhatToCook
 
 WhatToCook is a recipe-based application. This web application has many features 
 to make cooking easier.  Overall the user will be able to find recipes based on 
