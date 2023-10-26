@@ -10,7 +10,7 @@ to be cautious of the price of those meals.
 ## External Requirements
 In order to build this project you first have to install:
 
-- [REACT]([https://nodejs.org/en/](https://react.dev/))
+- [REACT.js]([https://nodejs.org/en/](https://react.dev/))
 - [Express]([https://www.mongodb.com/](https://expressjs.com/))
 
 REACT
