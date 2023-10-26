@@ -10,8 +10,8 @@ to be cautious of the price of those meals.
 ## External Requirements
 In order to build this project you first have to install:
 
-- [REACT.js]((https://react.dev/))
-- [Express]((https://expressjs.com/))
+- [REACT.js](https://react.dev/)
+- [Express](https://expressjs.com/)
 
 REACT
 <**ADD HOW TO GET IT AND RUN**>
