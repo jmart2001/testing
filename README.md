@@ -7,16 +7,6 @@ grocery lists, and plan meals for themselves and groups. This application will
 allow people to prepare their meals efficiently while also having the option
 to be cautious of the price of those meals.
 
-To run this application, first, clone the repository, and then the npm
-commands can be used to run the application locally: npm start. Other commands may
-need to be run in order to use npm start.
-
-<the file should contain detailed instructions that any developer
-can follow to install, compile, run, and test your project. These are not only
-useful to new developers, but also to you when you have to re-install everything
-because your old laptop crashed. Also, the teachers of this class will be
-following your instructions.>
-
 ## External Requirements
 
 List all the stuff the reader will need to install in order to get you app to
