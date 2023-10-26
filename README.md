@@ -76,7 +76,7 @@ Charles Castelot
 
 Antonio Turner antoniow@email.sc.edu
 
-Ayden Owens
+Ayden Owens aydeno@email.sc.edu
 
 Justin Martin justinmmartin01@gmail.com
 
