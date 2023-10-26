@@ -45,20 +45,15 @@ emulator or in a physical phone.
 
 # Testing
 
-In 492 you will write automated tests. When you do you will need to add a
-section that explains how to run them.
-
-The unit tests are in `/test/unit`.
-
-The behavioral tests are in `/test/casper/`.
+Tests Pending - Next Semester
 
 ## Testing Technology
 
-In some cases you need to install test runners, etc. Explain how.
+Tests Pending - Next Semester
 
 ## Running Tests
 
-Explain how to run the automated tests.
+Tests Pending - Next Semester
 
 # Authors
 
