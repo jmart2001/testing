@@ -8,19 +8,15 @@ allow people to prepare their meals efficiently while also having the option
 to be cautious of the price of those meals.
 
 ## External Requirements
-
-List all the stuff the reader will need to install in order to get you app to
-run in their laptop. For example:
-
 In order to build this project you first have to install:
 
-- [Node.js](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com/)
+- [REACT]([https://nodejs.org/en/](https://react.dev/))
+- [Express]([https://www.mongodb.com/](https://expressjs.com/))
 
-If possible, list the actual commands you used to install these, so the reader
-can just cut-n-paste the commands and get everything setup.
+REACT
 
-You only need to add instructions for the OS you are using.
+Express
+
 
 ## Setup
 
