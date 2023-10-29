@@ -33,7 +33,7 @@ Before you begin, make sure you have the following installed:
 
 If you haven't already, clone this repository to your local machine:
 
-git clone https://github.com/yourusername/recipe-generator.git
+git clone https://github.com/yourusername/SCCapstone/SystemBreakers
 
 ## Running
 
