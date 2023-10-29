@@ -72,11 +72,11 @@ Explain how to run the automated tests.
 
 # Authors
 
-Charles Castelot
+Charles Castelot castelot@email.sc.edu
 
 Antonio Turner antoniow@email.sc.edu
 
-Ayden Owens
+Ayden Owens aydeno@email.sc.edu
 
 Justin Martin justinmmartin01@gmail.com
 
