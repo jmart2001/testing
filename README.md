@@ -7,30 +7,17 @@ grocery lists, and plan meals for themselves and groups. This application will
 allow people to prepare their meals efficiently while also having the option
 to be cautious of the price of those meals.
 
-To run this application, first, clone the repository, and then the npm
-commands can be used to run the application locally: npm start. Other commands may
-need to be run in order to use npm start.
-
-<the file should contain detailed instructions that any developer
-can follow to install, compile, run, and test your project. These are not only
-useful to new developers, but also to you when you have to re-install everything
-because your old laptop crashed. Also, the teachers of this class will be
-following your instructions.>
-
 ## External Requirements
-
-List all the stuff the reader will need to install in order to get you app to
-run in their laptop. For example:
-
 In order to build this project you first have to install:
 
-- [Node.js](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com/)
+- [REACT.js](https://react.dev/)
+- [Express](https://expressjs.com/)
 
-If possible, list the actual commands you used to install these, so the reader
-can just cut-n-paste the commands and get everything setup.
+REACT
+<**ADD HOW TO GET IT AND RUN**>
 
-You only need to add instructions for the OS you are using.
+Express
+<**ADD HOW TO GET IT AND RUN**>
 
 ## Setup
 
@@ -55,24 +42,19 @@ emulator or in a physical phone.
 
 # Testing
 
-In 492 you will write automated tests. When you do you will need to add a
-section that explains how to run them.
-
-The unit tests are in `/test/unit`.
-
-The behavioral tests are in `/test/casper/`.
+Tests Pending - Next Semester
 
 ## Testing Technology
 
-In some cases you need to install test runners, etc. Explain how.
+Tests Pending - Next Semester
 
 ## Running Tests
 
-Explain how to run the automated tests.
+Tests Pending - Next Semester
 
 # Authors
 
-Charles Castelot castelot@email.sc.edu
+Charles Castelot  castelot@email.sc.edu
 
 Antonio Turner antoniow@email.sc.edu
 
