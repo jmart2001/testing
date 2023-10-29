@@ -32,13 +32,9 @@ Specify the commands for a developer to run the app from the cloned repo.
 
 # Deployment
 
-Webapps need a deployment section that explains how to get it deployed on the
-Internet. These should be detailed enough so anyone can re-deploy if needed
-. Note that you **do not put passwords in git**.
+We use https://vercel.com/ to deploy our server. To run it you want to log into the main account that is used to deploy the server, you click on system breaker project, then simply click deploy or redeploy(You only have to do that if you change vercel settings). The website auto updates when you push new coach to the main branch.
 
-Mobile apps will also sometimes need some instructions on how to build a
-"release" version, maybe how to sign it, and how to run that binary in an
-emulator or in a physical phone.
+https://system-breakers.vercel.app/
 
 # Testing
 
