@@ -21,10 +21,19 @@ Express
 
 ## Setup
 
-Here you list all the one-time things the developer needs to do after cloning
-your repo. Sometimes there is no need for this section, but some apps require
-some first-time configuration from the developer, for example: setting up a
-database for running your webapp locally.
+Before you begin, make sure you have the following installed:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [npm](https://www.npmjs.com/) - Node.js package manager
+- [MySQL](https://www.mysql.com/) - Database management system
+  
+### Cloning the Repository
+
+If you haven't already, clone this repository to your local machine:
+
+git clone https://github.com/yourusername/recipe-generator.git
 
 ## Running
 
