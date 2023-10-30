@@ -37,7 +37,11 @@ git clone https://github.com/yourusername/SCCapstone/SystemBreakers
 
 ## Running
 
-Specify the commands for a developer to run the app from the cloned repo.
+Once the repo is cloned and the most recent version is pulled, npm start can be used to look at the web application from the current code. 
+
+In the terminal
+  cd into /path_where_repo_is/ 
+  npm start
 
 # Deployment
 
