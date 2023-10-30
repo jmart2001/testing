@@ -14,7 +14,15 @@ In order to build this project you first have to install:
 - [Express](https://expressjs.com/)
 
 REACT
-<**ADD HOW TO GET IT AND RUN**>
+To write code:
+- Download Visual Studio Code.
+- Download Node.js (this link is for Windows and Mac): https://nodejs.org/en/download/current
+- Open the folder in VSCode.
+From there you can access and write/modify code.
+To view the results of the code, do the following:
+- Open your terminal (the terminal can also be accessed in VSCode).
+- Navigate to the project folder (Using the "cd" command).
+- Once in the folder, type "npm run start" to start the project. The local host will run on the defeult browser.
 
 Express
 <**ADD HOW TO GET IT AND RUN**>
