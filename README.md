@@ -40,8 +40,10 @@ git clone https://github.com/yourusername/SCCapstone/SystemBreakers
 Once the repo is cloned and the most recent version is pulled, npm start can be used to look at the web application from the current code. 
 
 In the terminal
-  cd into /path_where_repo_is/ 
-  npm start
+
+ -  cd into /<directory_where_repo_is>/ 
+  
+  - npm start
 
 # Deployment
 
