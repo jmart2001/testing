@@ -20,8 +20,6 @@ export default function App() {
       <h2 style={{textAlign: 'center'}}><Capstone/></h2>
       <h2>Hello! Testing the commit 2!</h2>
       <h2>Hello! Testing the commit 3!</h2>
-      <h2>Hello! Testing the commit 3! Merge Conflict! Justin</h2>
-      <h2>Testing if deployment works!</h2>
     </div>
   );
 }
