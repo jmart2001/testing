@@ -13,7 +13,7 @@ In order to build this project you first have to install:
 - [REACT.js](https://react.dev/)
 - [Express](https://expressjs.com/)
 
-REACT
+REACT </br>
 To write code:
 - Download Visual Studio Code.
 - Download Node.js (this link is for Windows and Mac): https://nodejs.org/en/download/current
