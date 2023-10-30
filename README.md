@@ -27,7 +27,17 @@ To view the results of the code, do the following:</br>
 - Once in the folder, type "npm run start" to start the project. The local host will run on the defeult browser.
 
 Express
-<**ADD HOW TO GET IT AND RUN**>
+
+Using the above link for express provides, open your command terminal (cmd) and use the line:
+$ npm install express –save
+To do this, you musty first ensure you have npm installed 
+
+To incorporate it in your code, you must ensure it is added as an extension to your project. The example below uses VS Code:
+1. In the Start window (choose File > Start Window to open), select Create a new project.
+2. Search for Express in the search bar at the top and then select JavaScript Express Application.
+3. Give your project and solution a name.
+If you need additional assistance, follow this steps in https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2022
+
 
 ## Setup
 
