@@ -85,7 +85,7 @@ Tests Pending - Next Semester
 
 # Authors
 
-Charles Castelot  castelot@email.sc.edu
+Charles Castelot castelot@email.sc.edu
 
 Antonio Turner antoniow@email.sc.edu
 
