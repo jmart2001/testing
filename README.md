@@ -18,8 +18,10 @@ To write code:
 - Download Visual Studio Code.
 - Download Node.js (this link is for Windows and Mac): https://nodejs.org/en/download/current
 - Open the folder in VSCode. </br>
+
 From there you can access and write/modify code.</br>
 To view the results of the code, do the following:</br>
+
 - Open your terminal (the terminal can also be accessed in VSCode).
 - Navigate to the project folder (Using the "cd" command).
 - Once in the folder, type "npm run start" to start the project. The local host will run on the defeult browser.
