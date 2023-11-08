@@ -28,7 +28,7 @@ function Header() {
 export default function App() {
   return (
     <div className="App">
-      <h2 style={{textAlign: 'center'}}><Header/></h2>
+      <Header/>
       <h1>Hello Capstone</h1>
       <h2 style={{textAlign: 'center'}}><Capstone/></h2>
     </div>
