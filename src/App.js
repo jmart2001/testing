@@ -11,9 +11,6 @@ function Capstone() {
   );
 }
 
-<<<<<<< HEAD
-function App() {
-=======
 function Header() {
   return (
     <header>
@@ -29,7 +26,6 @@ function Header() {
 }
 
 export default function App() {
->>>>>>> 9e1a5501aa0bfbc258f32b822a8a656298f9abea
   return (
     <div className="App">
       <h2 style={{textAlign: 'center'}}><Header/></h2>
