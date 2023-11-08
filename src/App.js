@@ -3,7 +3,7 @@ import React from 'react';
 
 function Capstone() {
   return (
-    <a href="https://capstone.cse.sc.edu/milestone/source-control/" target="_blank">
+    <a href="https://capstone.cse.sc.edu/milestone/research/#deliverables" target="_blank">
     <button style = {{color: 'white', fontSize: '20px', background: 'gray'}}>
       Capstone
     </button>
@@ -11,6 +11,9 @@ function Capstone() {
   );
 }
 
+<<<<<<< HEAD
+function App() {
+=======
 function Header() {
   return (
     <header>
@@ -26,6 +29,7 @@ function Header() {
 }
 
 export default function App() {
+>>>>>>> 9e1a5501aa0bfbc258f32b822a8a656298f9abea
   return (
     <div className="App">
       <h2 style={{textAlign: 'center'}}><Header/></h2>
