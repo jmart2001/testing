@@ -21,7 +21,7 @@ return (
 }
 function Price() {
 return (
-    <a href="/PriCom" target="_blank">
+    <a href="/PriceCom" target="_blank">
     <button style={{fontFamily: 'cursive',fontSize: '25px'}}>
         Price Comparator
     </button>
