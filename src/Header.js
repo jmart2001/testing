@@ -40,7 +40,7 @@ return (
 
 function Header() {
     return (
-      <header style= {{display: 'flex',justifyContent:'space-between',fontFamily: 'cursive'}} className="header">
+      <header style= {{display: 'flex',fontFamily: 'cursive'}} className="header">
         <nav className="nav">
           <ul style = {{fontFamily: 'cursive', textAlign: 'right'}} className="nav">
             <a style={{textAlign: 'right'}}><Home/></a>
