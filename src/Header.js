@@ -43,8 +43,8 @@ function Header() {
       <header style= {{fontFamily: 'cursive'}} className="d-flex align-items-start">
         <nav className="nav">
           <ul style = {{display: 'flex',fontFamily: 'cursive', textAlign: 'right'}} className="d-flex align-items-start">
-            <div style = {{textAlign: 'left'}}>WhatToCook</div>
-            <div><Home/></div>
+            <div style = {{textAlign: 'left'}}>WhatToCook{'     '}</div>
+            <Home/>
             <Recipe/>
             <Price/>
             <Profile/>
