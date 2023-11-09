@@ -1,0 +1,13 @@
+.justify {
+display: 'flex';
+justify-content: space-between;
+font-family: 'cursive';
+}
+
+.left {
+text-align: left;
+}
+
+.right {
+text-align: right;
+}
