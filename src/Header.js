@@ -41,7 +41,7 @@ return (
 function Header() {
     return (
       <header className="justify">
-        <nav className="nav">
+        <nav>
           <ul className="right">
             <div style = {{textAlign: 'left'}}>WhatToCook</div>
             <Home/>
