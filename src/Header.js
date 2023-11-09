@@ -42,7 +42,7 @@ function Header() {
     return (
       <header style= {{fontFamily: 'cursive'}} className="header">
         <nav className="nav">
-          <ul style = {{fontFamily: 'cursive', textAlign: 'right'}} className="nav-list">
+          <ul style = {{display: 'flex', fontFamily: 'cursive', textAlign: 'right'}} className="nav-list">
             <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
             <li style={{textAlign: 'left'}}>WhatToCook</li>
             <Home/>
