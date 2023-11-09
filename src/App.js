@@ -1,5 +1,17 @@
 import "./styles.css";
 import React from 'react';
+import { render } from 'react-dom'
+import { BrowserRouter as Router, Routes, Route }
+    from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Table from 'react-bootstrap/Table';
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import NavDropdown from 'react-bootstrap/NavDropdown';
+import Websites from './pages/websites';
+import PropTypes from 'prop-types';
+
 
 function Capstone() {
   return (
