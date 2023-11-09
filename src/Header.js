@@ -1,7 +1,15 @@
 import "./styles.css";
 import React, { useState } from 'react';
 
-
+function Home() {
+return (
+    <a href="/" target="_blank">
+    <button style={{color: 'white', fontSize: '15px'}}n>
+        Home
+    </button>
+    </a>
+    );
+}
 function Header() {
     const [isDropdownOpen, setDropdownOpen] = useState(false);
   
@@ -14,9 +22,7 @@ function Header() {
         <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
         <nav className="nav">
           <ul style = {{textAlign: 'right', size: '15px'}} className="nav-list">
-            <a href="/" target="_blank">
-                <Button>Home</Button>
-            </a>
+            <Home>
             <a href="/RepGen">Recipe Generator{' '}</a>
             <a href="/TriCom">Price Comparator{' '}</a>
             <a href="/Profile">Profile{' '}</a>
