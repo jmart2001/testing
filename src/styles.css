@@ -6,6 +6,7 @@
 .justify {
   display: flex;
   justify-content: space-between;
+  font-family: 'cursive';
 }
 
 .left {
