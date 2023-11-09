@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 
 function Capstone() {
   return (
-    <a href="https://capstone.cse.sc.edu/milestone/source-control/" target="_blank">
+    <a href="https://capstone.cse.sc.edu/milestone/research/#deliverables" target="_blank">
     <button style = {{color: 'white', fontSize: '20px', background: 'gray'}}>
       Capstone
     </button>
