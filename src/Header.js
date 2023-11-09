@@ -11,7 +11,7 @@ function Header() {
   
     return (
       <header className="header">
-        <div className="logo" style = {{align: 'right'}}>WhatToCook</div>
+        <div className="logo">WhatToCook</div>
         <nav className="nav">
           <ul className="nav-list">
             <li className="nav-item">
