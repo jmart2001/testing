@@ -4,12 +4,40 @@ import React, { useState } from 'react';
 function Home() {
 return (
     <a href="/" target="_blank">
-    <button style={{color: 'white', fontSize: '15px'}}n>
+    <button style={{fontSize: '15px'}}n>
         Home
     </button>
     </a>
     );
 }
+function Recipe() {
+return (
+    <a href="/RepGen" target="_blank">
+    <button style={{fontSize: '15px'}}n>
+        Recipe Generator
+    </button>
+    </a>
+    );
+}
+function Price() {
+return (
+    <a href="/PriCom" target="_blank">
+    <button style={{fontSize: '15px'}}n>
+        Price Comparator
+    </button>
+    </a>
+    );
+}
+function Profile() {
+return (
+    <a href="/Prof" target="_blank">
+    <button style={{fontSize: '15px'}}n>
+        Profile
+    </button>
+    </a>
+    );
+}
+
 function Header() {
     const [isDropdownOpen, setDropdownOpen] = useState(false);
   
@@ -23,9 +51,9 @@ function Header() {
         <nav className="nav">
           <ul style = {{textAlign: 'right', size: '15px'}} className="nav-list">
             <Home/>
-            <a href="/RepGen">Recipe Generator{' '}</a>
-            <a href="/TriCom">Price Comparator{' '}</a>
-            <a href="/Profile">Profile{' '}</a>
+            <Recipe/>
+            <Price Comparator/>
+            <Profile/>
           </ul>
         </nav>
       </header>
