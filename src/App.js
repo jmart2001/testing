@@ -16,9 +16,9 @@ function Header() {
     <header>
       <nav>
         <ul>
-          <a href="/">Home</a>
-          <li><a href="/about">About</a></li>
-          <li><a href="/contact">Contact</a></li>
+          <a style={{align: 'right'}} href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/contact">Contact</a>
         </ul>
       </nav>
     </header>
