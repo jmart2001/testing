@@ -43,7 +43,7 @@ function Header() {
       <header className="header">
         <nav>
           <ul className="right">
-            <div style = {{textAlign: 'left'}}>WhatToCook</div>
+            <div className="left">WhatToCook</div>
             <Home/>
             <Recipe/>
             <Price/>
