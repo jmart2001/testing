@@ -1,7 +1,7 @@
 import "./styles.css";
 import React from 'react';
 import { render } from 'react-dom'
-//import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 //import 'bootstrap/dist/css/bootstrap.min.css';
 // import Table from 'react-bootstrap/Table';
 // import Container from 'react-bootstrap/Container';
