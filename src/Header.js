@@ -11,7 +11,7 @@ function Header() {
   
     return (
       <header className="header">
-        <div className="logo">Your Logo</div>
+        <div className="logo" style = {{alight: 'right'}}>WhatToCook</div>
         <nav className="nav">
           <ul className="nav-list">
             <li className="nav-item">
