@@ -1,5 +1,5 @@
 import "./styles.css";
-import "./Header.js";
+import Header from './Header';
 import React, { useState } from 'react';
 
 function Capstone() {
