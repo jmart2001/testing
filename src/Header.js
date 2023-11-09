@@ -14,8 +14,8 @@ function Header() {
         <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
         <nav className="nav">
           <ul style = {{textAlign: 'right', size: '15px'}} className="nav-list">
-            <a href="/">
-                <Button>Home{' '}</Button>
+            <a href="/" target="_blank">
+                <Button>Home</Button>
             </a>
             <a href="/RepGen">Recipe Generator{' '}</a>
             <a href="/TriCom">Price Comparator{' '}</a>
