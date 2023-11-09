@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./Header.css";
 import Header from './Header';
 import React, { useState } from 'react';
 
@@ -15,7 +16,7 @@ function Capstone() {
 export default function App() {
   return (
     <div className="App">
-      <h1 style={{textAlign: 'left', background: 'lemonchiffon'}}><Header/></h1>
+      <h1 style={{background: 'lemonchiffon'}}><Header/></h1>
       <h1>Hello Capstone</h1>
       <h2 style={{textAlign: 'center'}}><Capstone/></h2>
     </div>
