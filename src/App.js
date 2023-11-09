@@ -16,7 +16,7 @@ function Header() {
     <header>
       <nav>
         <ul>
-          <li><a href="/">Home</a></li>
+          <a href="/">Home</a>
           <li><a href="/about">About</a></li>
           <li><a href="/contact">Contact</a></li>
         </ul>
@@ -28,7 +28,9 @@ function Header() {
 export default function App() {
   return (
     <div className="App">
-      <Header/>
+      <h1 style={{background: 'yellow'}}><Header/></h1>
+      <h1>Hello Capstone</h1>
+      <h1>Hello Capstone</h1>
       <h1>Hello Capstone</h1>
       <h2 style={{textAlign: 'center'}}><Capstone/></h2>
     </div>
