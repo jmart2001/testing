@@ -41,17 +41,15 @@ return (
 function Header() {
     return (
       <header style= {{fontFamily: 'cursive'}} className="header">
-        <div style = {{textAlign: 'left'}} className="logo">WhatToCook
         <nav className="nav">
-            WhatToCook
           <ul style = {{textAlign: 'right'}} className="nav-list">
+            <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
             <Home/>
             <Recipe/>
             <Price/>
             <Profile/>
           </ul>
         </nav>
-        </div>
       </header>
     );
   }
