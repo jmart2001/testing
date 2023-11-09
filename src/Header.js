@@ -40,7 +40,7 @@ return (
 
 function Header() {
     return (
-      <header className="justify">
+      <header className="header">
         <nav>
           <ul className="right">
             <div style = {{textAlign: 'left'}}>WhatToCook</div>
