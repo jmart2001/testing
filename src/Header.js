@@ -43,8 +43,7 @@ function Header() {
       <header style= {{display: 'flex',justifyContent:'space-between',fontFamily: 'cursive'}} className="header">
         <nav className="nav">
           <ul style = {{fontFamily: 'cursive', textAlign: 'right'}} className="nav">
-            
-            <Home/>
+            <a style={{textAlign: 'right'}}><Home/></a>
             <Recipe/>
             <Price/>
             <Profile/>
