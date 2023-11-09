@@ -42,8 +42,8 @@ function Header() {
     return (
       <header style= {{fontFamily: 'cursive'}} className="justify">
         <nav className="nav">
-          <ul style = {{fontFamily: 'cursive', textAlign: 'right'}} className="right">
-            <div style = {{textAlign: 'left'}}>WhatToCook</div>
+          <ul style = {{fontFamily: 'cursive'}} className="right">
+            
             <Home/>
             <Recipe/>
             <Price/>
