@@ -11,19 +11,13 @@ function Header() {
   
     return (
       <header className="header">
-        <div className="logo">WhatToCook</div>
+        <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
         <nav className="nav">
-          <ul className="nav-list">
-              <a href="/">Home</a>
-            <li className="nav-item">
-              <a href="/RepGen">Recipe Generator</a>
-            </li>
-            <li className="nav-item">
-              <a href="/TriCom">Price Comparator</a>
-            </li>
-            <li className="nav-item">
-              <a href="/Profile">Profile</a>
-            </li>
+          <ul style = {{textAlign: 'right'}} className="nav-list">
+            <a href="/">Home</a>
+            <a href="/RepGen">Recipe Generator</a>
+            <a href="/TriCom">Price Comparator</a>
+            <a href="/Profile">Profile</a>
           </ul>
         </nav>
       </header>
