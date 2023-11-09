@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./Header.css";
 import React, { useState } from 'react';
 
 function Home() {
@@ -43,7 +43,7 @@ function Header() {
       <header className="justify">
         <nav className="nav">
           <ul className="right">
-          <div style = {{textAlign: 'left'}}>WhatToCook</div>
+            <div style = {{textAlign: 'left'}}>WhatToCook</div>
             <Home/>
             <Recipe/>
             <Price/>
