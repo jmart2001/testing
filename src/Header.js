@@ -40,9 +40,9 @@ return (
 
 function Header() {
     return (
-      <header style= {{justifyContent:'space-between',fontFamily: 'cursive'}} className="header">
+      <header style= {{fontFamily: 'cursive'}} className="justify">
         <nav className="nav">
-          <ul style = {{fontFamily: 'cursive', textAlign: 'right'}} className="nav">
+          <ul style = {{fontFamily: 'cursive', textAlign: 'right'}} className="right">
             <div style = {{textAlign: 'left'}}>WhatToCook</div>
             <Home/>
             <Recipe/>
