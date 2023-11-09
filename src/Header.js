@@ -39,20 +39,14 @@ return (
 }
 
 function Header() {
-    const [isDropdownOpen, setDropdownOpen] = useState(false);
-  
-    const toggleDropdown = () => {
-      setDropdownOpen(!isDropdownOpen);
-    };
-  
     return (
-      <header className="header">
+      <header style= {{fontFamily: 'cursive'}} className="header">
         <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
         <nav className="nav">
-          <ul style = {{textAlign: 'right', size: '15px'}} className="nav-list">
+          <ul style = {{textAlign: 'right'}} className="nav-list">
             <Home/>
             <Recipe/>
-            <Price Comparator/>
+            <Price/>
             <Profile/>
           </ul>
         </nav>
