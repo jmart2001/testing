@@ -41,7 +41,7 @@ return (
 function Header() {
     return (
       <header style= {{fontFamily: 'cursive'}} className="header">
-        <div style = {{textAlign: 'left'}} className="logo">WhatToCook</div>
+        <div style = {{textAlign: 'left'}} className="logo">WhatToCook
         <nav className="nav">
           <ul style = {{textAlign: 'right'}} className="nav-list">
             <Home/>
@@ -50,6 +50,7 @@ function Header() {
             <Profile/>
           </ul>
         </nav>
+        </div>
       </header>
     );
   }
