@@ -7,72 +7,85 @@ grocery lists, and plan meals for themselves and groups. This application will
 allow people to prepare their meals efficiently while also having the option
 to be cautious of the price of those meals.
 
-To run this application, first, clone the repository, and then the npm
-commands can be used to run the application locally: npm start. Other commands may
-need to be run in order to use npm start.
-
-<the file should contain detailed instructions that any developer
-can follow to install, compile, run, and test your project. These are not only
-useful to new developers, but also to you when you have to re-install everything
-because your old laptop crashed. Also, the teachers of this class will be
-following your instructions.>
-
 ## External Requirements
-
-List all the stuff the reader will need to install in order to get you app to
-run in their laptop. For example:
-
 In order to build this project you first have to install:
 
-- [Node.js](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com/)
+- [REACT.js](https://react.dev/)
+- [Express](https://expressjs.com/)
 
-If possible, list the actual commands you used to install these, so the reader
-can just cut-n-paste the commands and get everything setup.
+REACT </br>
+To write code:
+- Download Visual Studio Code.
+- Download Node.js (this link is for Windows and Mac): https://nodejs.org/en/download/current
+- Open the folder in VSCode. </br>
 
-You only need to add instructions for the OS you are using.
+From there you can access and write/modify code.</br>
+To view the results of the code, do the following:</br>
+
+- Open your terminal (the terminal can also be accessed in VSCode).
+- Navigate to the project folder (Using the "cd" command).
+- Once in the folder, type "npm run start" to start the project. The local host will run on the defeult browser.
+
+Express
+
+Using the above link for express provides, open your command terminal (cmd) and use the line:
+$ npm install express –save
+To do this, you musty first ensure you have npm installed 
+
+To incorporate it in your code, you must ensure it is added as an extension to your project. The example below uses VS Code:
+1. In the Start window (choose File > Start Window to open), select Create a new project.
+2. Search for Express in the search bar at the top and then select JavaScript Express Application.
+3. Give your project and solution a name.
+If you need additional assistance, follow this steps in https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2022
+
 
 ## Setup
 
-Here you list all the one-time things the developer needs to do after cloning
-your repo. Sometimes there is no need for this section, but some apps require
-some first-time configuration from the developer, for example: setting up a
-database for running your webapp locally.
+Before you begin, make sure you have the following installed:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [npm](https://www.npmjs.com/) - Node.js package manager
+- [MySQL](https://www.mysql.com/) - Database management system
+  
+### Cloning the Repository
+
+If you haven't already, clone this repository to your local machine:
+
+git clone https://github.com/yourusername/SCCapstone/SystemBreakers
 
 ## Running
 
-Specify the commands for a developer to run the app from the cloned repo.
+Once the repo is cloned and the most recent version is pulled, npm start can be used to look at the web application from the current code. 
+
+In the terminal
+
+ -  cd into /<directory_where_repo_is>/ 
+  
+  - npm start
 
 # Deployment
 
-Webapps need a deployment section that explains how to get it deployed on the
-Internet. These should be detailed enough so anyone can re-deploy if needed
-. Note that you **do not put passwords in git**.
+We use https://vercel.com/ to deploy our server. To run it you want to log into the main account that is used to deploy the server, you click on system breaker project, then simply click deploy or redeploy(You only have to do that if you change vercel settings). The website auto updates when you push new coach to the main branch.
 
-Mobile apps will also sometimes need some instructions on how to build a
-"release" version, maybe how to sign it, and how to run that binary in an
-emulator or in a physical phone.
+https://system-breakers.vercel.app/
 
 # Testing
 
-In 492 you will write automated tests. When you do you will need to add a
-section that explains how to run them.
-
-The unit tests are in `/test/unit`.
-
-The behavioral tests are in `/test/casper/`.
+Tests Pending - Next Semester
 
 ## Testing Technology
 
-In some cases you need to install test runners, etc. Explain how.
+Tests Pending - Next Semester
 
 ## Running Tests
 
-Explain how to run the automated tests.
+Tests Pending - Next Semester
 
 # Authors
 
-Charles Castelot
+Charles Castelot castelot@email.sc.edu
 
 Antonio Turner antoniow@email.sc.edu
 
